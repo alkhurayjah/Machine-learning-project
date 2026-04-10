@@ -81,7 +81,7 @@ Taxonomic features significantly improve model performance. However, even withou
 
 ---
 
-### 3. Age Prediction (Regression)
+### 3. Age Prediction 
 
 **Goal:**  
 
