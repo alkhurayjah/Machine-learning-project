@@ -71,7 +71,7 @@ Taxonomic features significantly improve model performance. However, even withou
 
 ---
 
-### 2. Country Prediction
+### 2. Continent Classification Model
 
 **Goal:**  
 
