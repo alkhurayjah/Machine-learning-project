@@ -4,9 +4,6 @@
   <img src="images/trilobites.jpg" width="850">
 </p>
 
-<p align="center">
-  <b>Using Machine Learning to Decode Earth's Ancient Life</b>
-</p>
 
 ---
 
