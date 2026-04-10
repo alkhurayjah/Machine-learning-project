@@ -50,22 +50,10 @@ Trilobites were ancient marine arthropods that lived hundreds of millions of yea
 
 The project includes four main tasks:
 
-### 1. Time Period Classification (Main Task)
+### 1. Time Period Classification 
 
 **Goal:**  
 Classify fossils into their correct geological time period (e.g., Cambrian, Ordovician).
-
-**Models Used:**
-- Decision Tree (Baseline)
-- Random Forest (Advanced)
-
-**Results:**
-- Decision Tree: 97.7%  
-- Random Forest: 98.4%  
-
----
-
-### Model Comparison (Latest Update)
 
 To better understand the impact of features, two versions of the model were built:
 
@@ -89,30 +77,30 @@ Taxonomic features significantly improve model performance. However, even withou
 ### 2. Country Prediction
 
 **Goal:**  
-Predict the country where the fossil was found.
+
 
 **Approach:**  
-Supervised classification using taxonomy and environmental features.
+
 
 ---
 
 ### 3. Age Prediction (Regression)
 
 **Goal:**  
-Predict the fossil age in millions of years.
+
 
 **Approach:**  
-Regression models using geological and environmental data.
+
 
 ---
 
 ### 4. Clustering
 
 **Goal:**  
-Group trilobites based on similarity.
+
 
 **Approach:**  
-K-Means clustering.
+
 
 ---
 
@@ -161,6 +149,13 @@ This project demonstrates how machine learning can be used to analyze fossil dat
 https://www.kaggle.com/datasets/kayleefranklin/predict-the-trilobite-fossil-age
 
 ---
+
+## Contributors
+
+- Lana
+- Alaa
+- Faisal
+- Abdallah 
 
 <p align="center">
   Built with a focus on data analysis and machine learning
