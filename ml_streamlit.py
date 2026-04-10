@@ -452,7 +452,7 @@ with st.sidebar:
     <div class="sidebar-brand">
         <span class="fossil-icon">🦕</span>
         <h2>Trilobite<br/>Fossil Intelligence</h2>
-        <div class="sub">ML Project · 2025</div>
+        <div class="sub">ML Project · 2026</div>
     </div>
     """, unsafe_allow_html=True)
 
