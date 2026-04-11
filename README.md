@@ -223,8 +223,6 @@ This project demonstrates how machine learning can be used to analyze fossil dat
 
 ## Future Work
 
-- Improve performance using advanced feature selection  
-- Handle class imbalance with SMOTE or class weighting  
 - ~~Build an interactive dashboard~~ ✅ Done — [Live on Streamlit](https://machine-learning-project-rnczamy3pk4daonn663veu.streamlit.app/)  
 - ~~Deploy models~~ ✅ Done  
 - Extend to deep learning approaches for age regression  
